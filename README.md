@@ -207,7 +207,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 - [`<editor-container>`](https://github.com/toeverything/blocksuite) - Block based editor, designed for general-purpose collaborative applications.
 - [`<flip-reel>`](https://github.com/Flipatic/flip-reel) - Open-source carousel of vertical short-form videos for news publishers — Lit web components, Shadow DOM, JSON/MP4 feed, optional Google Ad Manager adapter.
-- - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
+- [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
 - [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - Web component for creating CSS animations built with Lit.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view.
 - [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Full featured JavaScript image and video gallery for Lit.
